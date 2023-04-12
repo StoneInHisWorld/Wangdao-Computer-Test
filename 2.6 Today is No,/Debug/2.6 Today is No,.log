@@ -1,0 +1,14 @@
+﻿  my_solution.cpp
+c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(26): error C2001: 常量中有换行符
+c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(27): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(26): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(26): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(26): note: 缺失的可变参数 1 为格式字符串“%d”所需
+c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(27): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(38): error C2001: 常量中有换行符
+c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(39): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(38): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(38): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(38): note: 缺失的可变参数 1 为格式字符串“%d”所需
+c:\users\hhw\source\repos\wangdao computertest course\2.6 today is no,\my_solution.cpp(39): error C2143: 语法错误: 缺少“;”(在“}”的前面)

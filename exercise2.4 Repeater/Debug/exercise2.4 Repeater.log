@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\hhw\source\repos\wangdao computertest course\exercise2.4 repeater\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hhw\source\repos\wangdao computertest course\exercise2.4 repeater\main.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+  exercise2.4 Repeater.vcxproj -> C:\Users\hhw\source\repos\Wangdao ComputerTest Course\Debug\exercise2.4 Repeater.exe

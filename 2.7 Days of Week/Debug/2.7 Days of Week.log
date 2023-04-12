@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\hhw\source\repos\wangdao computertest course\2.7 days of week\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MySolution.cpp
+c:\users\hhw\source\repos\wangdao computertest course\2.7 days of week\mysolution.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  2.7 Days of Week.vcxproj -> C:\Users\hhw\source\repos\Wangdao ComputerTest Course\Debug\2.7 Days of Week.exe
